@@ -24,6 +24,7 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
 
 
 # 🔥 News
+- *2025.01*: A new paper has been accepted by <em>Structural Control and Health Monitoring</em>.
 - *2024.05*: A new paper has been accepted by <em>Mechanical Systems and Signal Processing</em>.
 - *2024.03*: A new paper has been accepted by <em>Smart Structures and Systems</em>.
 - *2023.11*: A new paper has been accepted by <em>Construction and Building Materials</em>. 
@@ -44,6 +45,10 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
 - [Review for vision-based structural damage evaluation in disasters focusing on nonlinearity](https://www.techno-press.org/content/?page=article&journal=sss&volume=33&num=4&ordernum=2)
   <p><em>Smart Structures and Systems</em></p>
   <p><strong>Sifan Wang</strong>, Mayuko Nishio</p>
+
+- [Optical Flow‐Based Structural Anomaly Detection in Seismic Events From Video Data Combined With Computational Cost Reduction Through Deep Learning](https://onlinelibrary.wiley.com/doi/full/10.1155/stc/4702519)
+  <p><em>Structural Control and Health Monitoring</em></p>
+  <p><strong>Sifan Wang</strong>, Taisei, Saida, Mayuko Nishio</p>
 
 - [Time-varying damage detection in beam structures using variational mode decomposition and continuous wavelet transform](https://www.sciencedirect.com/science/article/pii/S0950061823041351)
   <p><em>Construction and Building Materials</em></p>
