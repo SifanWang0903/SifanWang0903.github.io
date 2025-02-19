@@ -20,7 +20,7 @@ redirect_from:
 
 I began my doctoral studies in the department of Engineering Mechanics and Energy at the University of Tsukuba in October 2021 and obtained my Doctor degree in September 2024. My dissertation, titled "Video-based Structural Damage Detection and Localization during Earthquake by Extracting Nonlinearity in Structural Dynamics," focused on innovative methods for structural health monitoring. During my studies, I was awarded the SPRING scholarship, supported by the Japan Science and Technology Agency (JST). 
 
-My research interest includes <strong>Structural Health Monitoring</strong>, <strong>3D Computer Vision</strong>, <strong>Signal, Image and Video Processing</strong>, <strong>Structural Dynamic Analysis</strong>. I have published 5 journal papers and 2 conference papers,you can click this link to find more detail <a href='https://scholar.google.com/citations?user=pY1WNrEAAAAJ'>google scholar</a>.
+My research interest includes <strong>Structural Health Monitoring</strong>, <strong>3D Computer Vision</strong>, <strong>Signal, Image and Video Processing</strong>, <strong>Structural Dynamic Analysis</strong>. I have published 6 journal papers and 2 conference papers,you can click this link to find more detail <a href='https://scholar.google.com/citations?user=pY1WNrEAAAAJ'>google scholar</a>.
 
 
 # 🔥 News
