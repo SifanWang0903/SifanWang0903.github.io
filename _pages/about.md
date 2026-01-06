@@ -24,6 +24,7 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
 
 
 # 🔥 News
+- *2025.08*: A new paper has been accepted by <em>Journal of Sound and Vibration</em>.
 - *2025.01*: A new paper has been accepted by <em>Structural Control and Health Monitoring</em>.
 - *2024.05*: A new paper has been accepted by <em>Mechanical Systems and Signal Processing</em>.
 - *2024.03*: A new paper has been accepted by <em>Smart Structures and Systems</em>.
@@ -42,6 +43,10 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
   </div>
 </div>
 
+- [Structural anomaly detection and nonlinearity assessment by integrating phase angle and video-based analysis via a shaking table test](https://www.sciencedirect.com/science/article/pii/S0022460X25004456)
+  <p><em>Journal of Sound and Vibration</em></p>
+  <p><strong>Sifan Wang</strong>, Mayuko Nishio</p>
+  
 - [Review for vision-based structural damage evaluation in disasters focusing on nonlinearity](https://www.techno-press.org/content/?page=article&journal=sss&volume=33&num=4&ordernum=2)
   <p><em>Smart Structures and Systems</em></p>
   <p><strong>Sifan Wang</strong>, Mayuko Nishio</p>
