@@ -84,6 +84,7 @@ My research interest includes <strong>Structural Health Monitoring</strong>, <st
   <p>Jingliang Liu, Jiapeng Zheng, <strong>Sifan Wang</strong></p> 
 
 # 🎖 Honors and Awards
+- *2025.04* The 2024 Best Paper Award from the Department of Systems and Information Engineering, University of Tsukuba
 - *2022.04* Fellowship, Support for Pioneering Research Initiated by the Next Generation; 次世代SPRING (From 04.01.2022 to 03.31.2024). 
 - *2019.09* Excellent Student Scholarship of Fujian Agriculture and Forest University, Third Prize.
 - *2016.06* Structural Design Contest for college student in Dalian city, Third Prize.
